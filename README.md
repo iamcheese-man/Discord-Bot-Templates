@@ -1,9 +1,9 @@
 # Discord-Bot-Codes
 .py Files containing public discord bot templates.
 # REQUIREMENTS For diagnosticbot.py:
-   Required Python version
+  Required Python version
 Python>=3.10,<3.13 
-Discord.py for slash commands, modals, buttons
+  Discord.py 
 discord.py==2.5.1
   SSH support
 paramiko==3.4.3
